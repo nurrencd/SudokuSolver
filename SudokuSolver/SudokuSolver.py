@@ -140,7 +140,7 @@ def trioIsolationSolve(puzzle):
 
 
 def specificRowColSolve(puzzle):
-    # TODO: examine: this function in more detail
+    # TODO: rewrite this piece of crap
     changed = 0
     # generate location array per each row
     for row in range(9):
